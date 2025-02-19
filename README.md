@@ -147,7 +147,7 @@ Building an **AI-driven time tracker & focus assistant**, leveraging **AI wrappe
 
 ## 🤝 **Connect With Me!**  
 
-🔗 **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/dhruv-kumar-a54a2916b)  
+🔗 **LinkedIn:** www.linkedin.com/in/dhruv-kumar-a54a2916b
 🔗 **GitHub:** [Your GitHub Profile](https://github.com/yourprofile)  
 🔗 **Kaggle:** [Your Kaggle Profile](https://www.kaggle.com/yourprofile)  
 
