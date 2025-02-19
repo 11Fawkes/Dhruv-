@@ -1,119 +1,159 @@
-# Dhruv-
-Main Page
-👋 Hey there, I'm Dhruv!
-🚀 Aspiring Business & Data Analyst | Data Storyteller
-📊 Passionate about Data-Driven Strategy, Business Intelligence, and Trend Analysis
-🧠 Always exploring Power BI, Python, SQL, and Machine Learning to drive insight-driven decision-making.
+# 🚀 Dhruv - Data Analytics | Machine Learning | Data Strategy  
 
-🔥 Featured Projects
-📈 Stock Price Prediction & Explainability with AI
-🚀 Overview
-This project uses LSTM (Long Short-Term Memory) networks to predict stock prices while leveraging SMA (Simple Moving Average) and SHAP (SHapley Additive Explanations) for enhanced interpretability. The goal is to provide not just predictions but also an understanding of what influences stock movements.
+![Analytics](https://img.shields.io/badge/Data-Analytics-informational?style=flat&logo=python&logoColor=white&color=blue)  
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Modeling-orange?style=flat&logo=tensorflow)  
+![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-yellow?style=flat&logo=powerbi)  
+![SQL](https://img.shields.io/badge/SQL-Database-blue?style=flat&logo=postgresql)  
+![Data Engineering](https://img.shields.io/badge/Data%20Engineering-Kafka%20%7C%20Airflow-lightgrey?style=flat&logo=apache)  
 
-🛠 Tools Used
-Python (Pandas, NumPy, TensorFlow)
-LSTM (Deep Learning for Time Series)
-SHAP (Explainability & Model Interpretability)
-Power BI (Visualization & Trend Analysis)
-📈 Key Findings
-LSTM-based stock prediction models improve accuracy over traditional SMA models.
-SHAP analysis reveals which factors impact stock price movements the most.
-Visualization dashboards in Power BI provide actionable insights for investors.
-🔗 Project Link
-👉 Click Here to View
+---
 
-🛒 Customer Segmentation & Market Basket Analysis
-🚀 Overview
-This project analyzes customer purchase behavior using clustering techniques and association rule mining. It segments customers based on buying patterns and recommends product bundles using Market Basket Analysis to enhance cross-selling opportunities.
+## 🌟 **About Me**  
 
-🛠 Tools Used
-Python (Pandas, NumPy, Scikit-learn)
-K-Means & Hierarchical Clustering
-Apriori & FP-Growth Algorithms
-Power BI (Visualization & Dashboard)
-📈 Key Findings
-Identified distinct customer segments based on purchasing habits.
-Discovered frequently bought-together products, optimizing bundling strategies.
-Created an interactive Power BI dashboard to visualize purchasing behavior.
-🔗 Project Link
-👉 Click Here to View
+I am an **aspiring Business Analyst & Data Strategist**, working at the intersection of **data, AI, and business decision-making**. I’m passionate about finding **actionable insights from complex data** and building **data-driven applications** that **bridge the gap between raw data and strategic decision-making.**  
 
-💳 Financial Transactions Analysis & Power BI Dashboard
-🚀 Overview
-This project processes and analyzes financial transaction data, helping users track spending, detect anomalies, and visualize income vs. expenses trends in an interactive Power BI dashboard.
+💡 **What I’m doing now:**  
+- **Expanding my technical portfolio** 📊 by working on **ML models, analytics dashboards, and automation tools.**  
+- **Building real-world applications** 🚀—including an **AI-powered productivity tool**.  
+- **Exploring the intersection between data, business strategy, and AI**.  
 
-🛠 Tools Used
-Power BI (Data Cleaning & Visualization)
-SQL (Database Management & Queries)
-Python (Pandas, Matplotlib)
-📈 Key Findings
-Identified spending patterns and budget leakages across different expense categories.
-Created dynamic visualizations for monthly income vs. expenditure tracking.
-Detected potential fraudulent transactions using statistical anomalies.
-🔗 Project Link
-👉 Click Here to View
+I believe **data without strategy is just noise**—I aim to **turn it into impact.**  
 
-📊 Exploratory Data Analysis (EDA) for Business Insights
-🚀 Overview
-This project focuses on data wrangling, cleaning, and visualization to extract business insights from raw datasets. The aim is to transform disorganized business data into meaningful insights for decision-makers.
+---
 
-🛠 Tools Used
-Python (Pandas, NumPy, Matplotlib, Seaborn)
-Power BI (Interactive Data Visualization)
-SQL (Data Cleaning & Analysis)
-📈 Key Findings
-Uncovered patterns in customer behavior and operational efficiency.
-Identified key factors influencing sales and business performance.
-Developed an automated pipeline for data-driven decision-making.
-🔗 Project Link
-👉 Click Here to View
+## 🔥 **Projects & Case Studies**  
 
-🧠 AI-Powered ADHD Productivity Tracker (In Progress)
-🚀 Overview
-Currently developing an AI-powered productivity tracker designed for individuals with ADHD. The app will use AI wrappers to provide personalized time management suggestions, focus-tracking, and distraction control techniques.
+### 📊 **Exploratory Data Analysis (EDA) on Real-World Datasets**  
+🚀 **Overview:**  
+Performed **data wrangling, cleaning, and visualization** on **real-world business datasets**, uncovering hidden trends and actionable insights.  
 
-🛠 Tools Used
-Python (FastAPI, OpenAI API)
-Firebase (User Data Management)
-Streamlit (UI Development)
-AI Wrappers for Smart Suggestions
-📈 Key Features (Upcoming)
-AI-driven task prioritization and scheduling.
-Personalized focus sessions based on user patterns.
-Adaptive nudges and real-time productivity tracking.
-🔗 Project Link
-👉 Click Here to View (Coming Soon)
+🛠 **Tech Stack:**  
+- 🐍 Python (Pandas, NumPy, Seaborn)  
+- 📊 Power BI (Interactive Dashboards)  
+- 🛢️ SQL (Data Extraction & Cleaning)  
 
-📜 Certifications (Completed & Upcoming)
-✅ Completed:
-Microsoft Certified: Power BI Data Analyst Associate (Verified)
-Analyzing and Visualizing Data with Microsoft Power BI
-🚀 Upcoming / In Progress:
-Google Data Analytics Professional Certificate
-IBM Data Science Professional Certificate
-AWS Data Analytics Specialty
-Advanced SQL for Data Analysis
-AI & Machine Learning for Business Analytics
-🤝 Connect With Me!
-🔗 LinkedIn: [Your LinkedIn Profile]
-🔗 GitHub: [Your GitHub Profile]
-🔗 Kaggle: [Your Kaggle Profile]
+📈 **Key Findings:**  
+✔️ Identified **market trends and seasonal patterns** in the dataset.  
+✔️ Used **data visualization** to uncover key business drivers.  
+✔️ Automated **data cleaning pipeline** for future analysis.  
 
-🌟 What I'm Working On & My Vision
-I’m a fast learner, an innovator, and a problem-solver. I love breaking down complex data problems into clear, actionable insights that drive decision-making.
+🔗 **[View Project](GitHub-Link)**  
 
-💡 What excites me?
+---
 
-Merging AI with Data Analytics – Using AI Wrappers to enhance automation and workflow efficiency.
-Building Mini AI Tools – Exploring AI-based solutions for real-world productivity and analytics challenges.
-Bridging Strategy & Data – Leveraging Business Intelligence to drive impactful decision-making.
-🔹 Expanding My Project Portfolio – Adding more real-world business analytics projects, AI-driven insights, and workflow automation.
-🔹 ADHD Productivity AI App – Developing a tool to help people track time, manage focus, and boost efficiency.
+### 🛍️ **Market Basket Analysis (MBA) Using Apriori Algorithm**  
+🚀 **Overview:**  
+Utilized **Apriori & FP-Growth algorithms** to analyze **purchase patterns**, helping businesses **optimize product recommendations & bundling.**  
 
-🚀 Always learning. Always growing. Always innovating.
+🛠 **Tech Stack:**  
+- 🐍 Python (Pandas, NumPy, Scikit-learn)  
+- 📊 Power BI (Data Visualization & Reports)  
+- 🛍️ Market Basket Analysis (Apriori Algorithm)  
 
-✅ Next Steps for You:
-✔ Follow me on GitHub & LinkedIn for updates.
-✔ Check out my projects and feel free to collaborate!
-✔ Let’s connect – I'm always open to discussions & opportunities.
+📈 **Key Findings:**  
+✔️ Discovered **strong product associations** that led to increased sales.  
+✔️ Provided **data-driven bundling strategies** using rule-based AI.  
+✔️ Built a **dashboard for retail decision-makers**.  
 
+🔗 **[View Project](GitHub-Link)**  
+
+---
+
+### 🎯 **Customer Segmentation with Clustering**  
+🚀 **Overview:**  
+Used **unsupervised learning** to **group customers** based on their spending patterns and behaviors, improving targeted marketing.  
+
+🛠 **Tech Stack:**  
+- 🐍 Python (Pandas, NumPy, Scikit-learn)  
+- 🎯 K-Means & Hierarchical Clustering  
+- 📊 Power BI (Data Visualization)  
+
+📈 **Key Findings:**  
+✔️ Identified **high-value vs. low-value customers** for better business targeting.  
+✔️ Optimized **marketing campaigns** by aligning with customer groups.  
+✔️ Created an **interactive segmentation dashboard**.  
+
+🔗 **[View Project](GitHub-Link)**  
+
+---
+
+### 🔥 **E-Commerce Recommendation System (Machine Learning)**  
+🚀 **Overview:**  
+Developed a **machine learning model** to predict **best product recommendations** based on customer behavior, using **collaborative filtering**.  
+
+🛠 **Tech Stack:**  
+- 🤖 Python (Scikit-learn, Pandas, TensorFlow)  
+- 🔍 Recommendation Algorithms (Collaborative Filtering)  
+- 📊 Power BI (Visual Analysis)  
+
+📈 **Key Insights:**  
+✔️ Improved **product recommendation accuracy** by **15%**.  
+✔️ Helped **optimize user experience** through **personalized suggestions**.  
+✔️ Built an **interactive dashboard to monitor model performance**.  
+
+🔗 **[View Project](GitHub-Link)**  
+
+---
+
+### 🚂 **Data Engineering & ETL with Kafka & Airflow**  
+🚀 **Overview:**  
+Built a **real-time ETL pipeline** using **Kafka & Apache Airflow**, processing **large-scale event data**, including the **Titanic dataset** for testing.  
+
+🛠 **Tech Stack:**  
+- 📡 **Kafka (Real-time Data Streaming)**  
+- ⏳ **Apache Airflow (Workflow Automation)**  
+- 🛢️ SQL (Data Processing & Queries)  
+
+📈 **Key Learnings:**  
+✔️ Built a **scalable ETL pipeline** for batch & real-time processing.  
+✔️ Integrated **Airflow DAGs** to automate workflows.  
+✔️ Used **Kafka streams** to process and move data efficiently.  
+
+🔗 **[View Project](GitHub-Link)**  
+
+---
+
+### 🧠 **AI-Powered ADHD Productivity Tracker (In Progress)**  
+🚀 **Overview:**  
+Building an **AI-driven time tracker & focus assistant**, leveraging **AI wrappers** to **enhance productivity for users with ADHD**.  
+
+🛠 **Tech Stack:**  
+- 🤖 OpenAI API (AI-Powered Task Prioritization)  
+- ⚡ FastAPI & Streamlit (Backend & UI)  
+- 📡 Firebase (User Data Storage)  
+
+📈 **Key Features:**  
+✔️ AI-generated **focus recommendations & scheduling**.  
+✔️ **Real-time progress tracking** with adaptive nudges.  
+✔️ **Personalized task breakdowns** based on user history.  
+
+🔗 **[View Project](GitHub-Link)** (Coming Soon)  
+
+---
+
+## 📜 **Certifications (Completed & Upcoming)**  
+
+### ✅ **Completed:**  
+- 🏆 **AWS Cloud Practitioner (Basic Certification)**  
+
+### 🚀 **Upcoming / In Progress:**  
+- 🎯 **Microsoft Certified: Power BI Data Analyst Associate**  
+- 📊 **Google Data Analytics Professional Certificate**  
+- 🤖 **IBM Data Science Professional Certificate**  
+- ☁️ **AWS Data Analytics Specialty**  
+- 🔍 **Advanced SQL for Data Analysis**  
+
+---
+
+## 🤝 **Connect With Me!**  
+
+🔗 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
+🔗 **GitHub:** [Your GitHub Profile](https://github.com/yourprofile)  
+🔗 **Kaggle:** [Your Kaggle Profile](https://www.kaggle.com/yourprofile)  
+
+---
+
+## ✅ **Next Steps for You:**  
+✔ **Follow me** on GitHub & LinkedIn for updates.  
+✔ **Check out my projects** and feel free to collaborate!  
+✔ **Let’s connect** – Always open to discussions & opportunities.  
